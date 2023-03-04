@@ -26,7 +26,7 @@
 .About p{
   @apply lg:text-[1.65rem] md:text-[1rem] text-[blue] font-[500] font-[inter] 
 }
-.footer{
+.Footer{
   @apply flex justify-center items-center gap-[25px] mt-[2.56rem]
 }
 .fa{
