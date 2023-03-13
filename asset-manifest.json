@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://musa108.github.io/portfolio/static/css/main.dfcd28a0.css",
+    "main.js": "/https://musa108.github.io/portfolio/static/js/main.340fcf61.js",
+    "static/js/787.60235f71.chunk.js": "/https://musa108.github.io/portfolio/static/js/787.60235f71.chunk.js",
+    "index.html": "/https://musa108.github.io/portfolio/index.html",
+    "main.dfcd28a0.css.map": "/https://musa108.github.io/portfolio/static/css/main.dfcd28a0.css.map",
+    "main.340fcf61.js.map": "/https://musa108.github.io/portfolio/static/js/main.340fcf61.js.map",
+    "787.60235f71.chunk.js.map": "/https://musa108.github.io/portfolio/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfcd28a0.css",
+    "static/js/main.340fcf61.js"
+  ]
+}
